@@ -3,13 +3,13 @@
 This project is designed to **detect whether an image is tampered or authentic** using a deep learning model trained on ELA-processed images.
 
 ## 📌 Table of Contents
-- [Overview](#overview)
-- [How It Works](#how-it-works)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
+- [Overview](#-overview)
+- [How It Works](#️-how-it-works)
+- [Technologies Used](#-technologies-used)
+- [Project Structure](#-project-structure)
+- [How to Run](#️-how-to-run)
+- [Results](#-results)
+- [Future Improvements](#-future-improvements)
 
 ---
 
