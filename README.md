@@ -51,7 +51,7 @@ With the rise of digital media, **image forgery** is increasingly used for misin
 ### 🚀 Recommended: Use Kaggle Notebook (Easiest Way)
 
 1. **Open the Kaggle Notebook**
-   - Click here: [Image Tampering Detection - Kaggle Notebook]([https://www.kaggle.com/code/najmihassan101/image-forgery-detection-with-ela/edit](https://www.kaggle.com/code/najmihassan101/image-forgery-detection-with-ela))
+   - Click here: [Image Tampering Detection - Kaggle Notebook](https://www.kaggle.com/code/najmihassan101/image-forgery-detection-with-ela)
    - Or upload the `image-forgery-detection-with-ela.ipynb` to your Kaggle account
 
 2. **Run All Cells**
