@@ -47,29 +47,6 @@ With the rise of digital media, **image forgery** is increasingly used for misin
 
 ---
 
-## 📁 Project Structure
-
-```
-tampering-detection/
-│
-├── data/
-│   ├── train/
-│   ├── test/
-│   └── unseen-images/
-│
-├── model/
-│   └── image_forgery_detection_model.keras     # Trained model
-│
-├── utils/
-│   └── ela_processing.py      # ELA conversion functions
-│
-├── main_notebook.ipynb        # Model training, testing & visualization
-├── predict_tampered.py        # Function for predicting new images
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## ▶️ How to Run
 
