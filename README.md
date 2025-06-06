@@ -58,7 +58,7 @@ tampering-detection/
 │   └── unseen-images/
 │
 ├── model/
-│   └── tamper_detector.h5     # Trained model
+│   └── image_forgery_detection_model.keras     # Trained model
 │
 ├── utils/
 │   └── ela_processing.py      # ELA conversion functions
@@ -126,13 +126,6 @@ print("Prediction:", result)
 - Experiment with multi-channel ELA at different JPEG qualities
 - Add GUI for easier user interaction
 - Explore other forensic techniques like noise/residual analysis
-
----
-
-## 🙌 Acknowledgements
-
-- Error Level Analysis – Dr. Neal Krawetz
-- Various open-source Kaggle datasets used for training/testing
 
 ---
 
