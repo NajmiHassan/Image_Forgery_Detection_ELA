@@ -46,19 +46,36 @@ With the rise of digital media, **image forgery** is increasingly used for misin
 
 ---
 
-
 ## ▶️ How to Run
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/tampering-detection.git
-cd tampering-detection
-```
+### 🚀 Recommended: Use Kaggle Notebook (Easiest Way)
 
-### 2. Install dependencies
+1. **Open the Kaggle Notebook**
+   - Click here: [Image Tampering Detection - Kaggle Notebook](https://www.kaggle.com/code/najmihassan101/image-forgery-detection-with-ela/edit)
+   - Or upload the `main_notebook.ipynb` to your Kaggle account
+
+2. **Run All Cells**
+   - All dependencies are pre-installed on Kaggle
+   - GPU/TPU acceleration is available for free
+   - Datasets can be easily imported
+
+3. **Upload Your Own Images**
+   - Use Kaggle's file upload feature to test your own images
+   - Results will be displayed directly in the notebook
+
+### 💻 Alternative: Local Setup
+
+If you prefer to run locally:
+
 ```bash
+https://github.com/NajmiHassan/Image_Forgery_Detection_ELA.git
+
 pip install -r requirements.txt
 ```
+
+Then open `main_notebook.ipynb` in Jupyter Notebook or JupyterLab.
+
+---
 
 ### 3. Run the notebook
 Open `main_notebook.ipynb` to:
