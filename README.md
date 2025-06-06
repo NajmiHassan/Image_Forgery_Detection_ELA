@@ -73,12 +73,12 @@ https://github.com/NajmiHassan/Image_Forgery_Detection_ELA.git
 pip install -r requirements.txt
 ```
 
-Then open `main_notebook.ipynb` in Jupyter Notebook or JupyterLab.
+Then open `image-forgery-detection-with-ela.ipynb` in Jupyter Notebook or JupyterLab.
 
 ---
 
 ### 3. Run the notebook
-Open `main_notebook.ipynb` to:
+Open `image-forgery-detection-with-ela.ipynb` to:
 - Preprocess data
 - Train the model (or load a pretrained one)
 - Evaluate performance
